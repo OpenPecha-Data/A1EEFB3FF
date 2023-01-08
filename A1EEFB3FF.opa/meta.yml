@@ -1,0 +1,19 @@
+id: A1EEFB3FF
+title: Siṃhamukhā Lineage Prayer
+type: translation
+pechas:
+- I0E4A3844
+- I9EB907B4
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:14:44.498409
+  last_modified_at: 2023-01-04 12:14:44.498414
+  collections:
+  - Jamyang Khyentse Chökyi Lodrö Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I0E4A3844/D21A: CC2F
+  I9EB907B4/8D1D: CC2F
